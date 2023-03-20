@@ -1,12 +1,24 @@
 # アイドルマスターシンデレラガールズ早坂美玲アーカイブ
 ## 保存されたアイドルギャラリーリスト
 * [アルバム](idols/Mirei_Hayasaka)
-* [はじめてのキャンプ_OP](idols\etc\episodes\はじめてのキャンプ_OP)
-* [はじめてのキャンプ_全員集合!](idols\etc\episodes\はじめてのキャンプ_全員集合!)
-* [はじめてのキャンプ_ED](idols\etc\episodes\はじめてのキャンプ_ED)
-* [アイドルプロデュース the 6th Anniversary](idols\etc\episodes\6th)
-* [アイドルプロデュース the 6th Anniversary)_OP](idols\etc\episodes\6th_OP)
-* [アイドルプロデュース the 6th Anniversary)_ED](idols\etc\episodes\6th_ED)
+## イベント関連
+### アイドルプロデュース はじめてのキャンプ
+* [イベントメモリー](idols\etc\episodes\はじめてのキャンプ)
+* [イベントOP演出](idols\etc\episodes\はじめてのキャンプ_OP)
+* [全員集合!](idols\etc\episodes\はじめてのキャンプ_全員集合!)
+* [イベントED演出](idols\etc\episodes\はじめてのキャンプ_ED)
+### アイドルプロデュース the 6th Anniversary
+* [イベントメモリー](idols\etc\episodes\6th)
+* [イベントOP演出](idols\etc\episodes\6th_OP)
+* [芳乃&楓合流!](idols\etc\episodes\6th_芳乃&楓合流!)
+* [イベントED演出](idols\etc\episodes\6th_ED)
+### イベントメモリーのみ
+* [第4回アイドルLIVEロワイヤル](idols\etc\episodes\第4回アイドルLIVEロワイヤル)
+* [第12回プロダクションマッチフェスティバル](idols\etc\episodes\第12回プロダクションマッチフェスティバル)
+* [第21回ドリームLIVEフェスティバル](idols\etc\episodes\第21回ドリームLIVEフェスティバル)
+* [第25回ドリームLIVEフェスティバル](idols\etc\episodes\第25回ドリームLIVEフェスティバル)
+* [第37回 アイドルLIVEロワイヤル](idols\etc\episodes\第37回 アイドルLIVEロワイヤル)
+## ぷちエピソード
 * [ぷちエピソード１](idols\etc\episodes\ぷちエピソード１)
 * [ぷちエピソード２](idols\etc\episodes\ぷちエピソード２)
 * [ぷちエピソード３](idols\etc\episodes\ぷちエピソード３)
@@ -15,5 +27,9 @@
 * [ぷちエピソード６](idols\etc\episodes\ぷちエピソード６)
 * [ぷちエピソード７](idols\etc\episodes\ぷちエピソード７)
 * [ぷちエピソード８](idols\etc\episodes\ぷちエピソード８)
-* [カミングTV](idols\etc\episodes\カミングTV])
-* [強いぞ！インディヴィジュアルズ！](idols\etc\episodes\強いぞ！インディヴィジュアルズ！])
+## リフレッシュルーム
+* [強いぞ！インディヴィジュアルズ！](idols\etc\episodes\強いぞ！インディヴィジュアルズ！)
+* [My-style Refresh](idols\etc\episodes\My-style Refresh)
+## その以外
+* [カミングTV](idols\etc\episodes\カミングTV)
+* [シンデレラヒストリー (野球、しようよ！)](idols\etc\episodes\野球、しようよ！)
