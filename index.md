@@ -1,3 +1,19 @@
-# 아이돌마스터 신데렐라 걸즈 아이돌 갤러리 아카이브
-## 보존된 아이돌 갤러리 목록
-* [Mirei_Hayasaka](idols/Mirei_Hayasaka)
+# アイドルマスターシンデレラガールズ早坂美玲アーカイブ
+## 保存されたアイドルギャラリーリスト
+* [アルバム](idols/Mirei_Hayasaka)
+* [はじめてのキャンプ_OP](idols\etc\episodes\はじめてのキャンプ_OP)
+* [はじめてのキャンプ_全員集合!](idols\etc\episodes\はじめてのキャンプ_全員集合!)
+* [はじめてのキャンプ_ED](idols\etc\episodes\はじめてのキャンプ_ED)
+* [アイドルプロデュース the 6th Anniversary](idols\etc\episodes\6th)
+* [アイドルプロデュース the 6th Anniversary)_OP](idols\etc\episodes\6th_OP)
+* [アイドルプロデュース the 6th Anniversary)_ED](idols\etc\episodes\6th_ED)
+* [ぷちエピソード１](idols\etc\episodes\ぷちエピソード１)
+* [ぷちエピソード２](idols\etc\episodes\ぷちエピソード２)
+* [ぷちエピソード３](idols\etc\episodes\ぷちエピソード３)
+* [ぷちエピソード４](idols\etc\episodes\ぷちエピソード４)
+* [ぷちエピソード５](idols\etc\episodes\ぷちエピソード５)
+* [ぷちエピソード６](idols\etc\episodes\ぷちエピソード６)
+* [ぷちエピソード７](idols\etc\episodes\ぷちエピソード７)
+* [ぷちエピソード８](idols\etc\episodes\ぷちエピソード８)
+* [カミングTV](idols\etc\episodes\カミングTV])
+* [強いぞ！インディヴィジュアルズ！](idols\etc\episodes\強いぞ！インディヴィジュアルズ！])
