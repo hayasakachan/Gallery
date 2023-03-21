@@ -34,3 +34,4 @@
 ## その以外
 * [カミングTV](idols\etc\episodes\カミングTV)
 * [シンデレラヒストリー (野球、しようよ！)](idols\etc\episodes\野球、しようよ！)
+* [ぷちセリフ一覧](idols\etc\episodes\puti)
