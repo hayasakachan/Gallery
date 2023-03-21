@@ -35,4 +35,4 @@
 * [カミングTV](idols\etc\episodes\カミングTV)
 * [シンデレラヒストリー (野球、しようよ！)](idols\etc\episodes\野球、しようよ！)
 * [ぷちセリフ一覧](idols\etc\episodes\puti)
-* [早坂美玲関連アイテム一覧](idols\etc\episodes\prezent)
+* [早坂美玲関連アイテム一覧](idols\etc\episodes\present)
