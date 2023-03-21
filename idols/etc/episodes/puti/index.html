@@ -47,10 +47,6 @@ position: absolute;
 <li><a href="#" class="head_menu_06 mainPopUpMenu_btn se_007"><div></div></a></li>
 </ul>
 </div>
-<div id="jsEyeCatch">
-<div style="margin-top:100px"><img src='../../../../idolmaster/image_sp/petit_cg/ui/sprite/loading/working_1.gif' width="195" height="139"></div>
-<div style="margin-top:-80px"><img src='../../../../idolmaster/image_sp/petit_cg/ui/sprite/loading/loading.gif' width="102" height="102"></div>
-</div>
 <div style="-webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; position: absolute; top: 0; overflow: hidden; height: 100%;">
 <img src='../../../../idolmaster/image_sp/petit_cg/ui/bg/1/long/1.jpg' width="320" height="575" id="animation_bg" style="display:none;">
 </div>
@@ -2046,7 +2042,7 @@ getCommentsList();
 function getCommentsList(){
 $.ajax({
 type: 'POST',
-url: 'https://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http%3A%2F%2Fmobamas.net%2Fidolmaster%2Fpetit_cg%2Fajax_idol_comment_list%3Fl_frm%3DPetit_cg_index_1%26rnd%3D257221238',
+url: 'https://raw.githubusercontent.com/hayasakachan/Gallery/main/idols/etc/episodes/puti/puti.json',
 dataType: 'json',
 data: {
 'deck_position': chara()
