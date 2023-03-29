@@ -1,5 +1,5 @@
 # アイドルマスターシンデレラガールズ早坂美玲アーカイブ
-* Twitter: @hayasaka_osu
+* Twitter: @hayasaka_osu フォロー歓迎
 ## アルバム
 * [早坂美玲](idols/Mirei_Hayasaka)
 ## イベント関連
