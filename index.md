@@ -7,6 +7,7 @@
 
   gtag('config', 'G-X6PJ9Y8BHN');
 </script>
+<meta name="google-site-verification" content="1-v3-uqJ5OVxGqDN3Kt4euNJXKDWFSKcUdFLSaF1dpc" />
 
 # Last update: 2023-12-25
 # アイドルマスターシンデレラガールズ早坂美玲アーカイブ
