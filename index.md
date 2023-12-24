@@ -1,5 +1,15 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X6PJ9Y8BHN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X6PJ9Y8BHN');
+</script>
+* Last update: 2023-12-25
 # アイドルマスターシンデレラガールズ早坂美玲アーカイブ
-* Twitter: @hayasaka_osu フォロー歓迎
+* Twitter: @hayasaka_pd フォロー歓迎
 ## アルバム
 * [早坂美玲](idols/Mirei_Hayasaka)
 ## イベント関連
