@@ -7,7 +7,8 @@
 
   gtag('config', 'G-X6PJ9Y8BHN');
 </script>
-* Last update: 2023-12-25
+
+# Last update: 2023-12-25
 # アイドルマスターシンデレラガールズ早坂美玲アーカイブ
 * Twitter: @hayasaka_pd フォロー歓迎
 ## アルバム
